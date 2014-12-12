@@ -1,0 +1,8 @@
+E:\Dropbox\Dropbox\OOP.Net\Content\Exception\Exception Example\FileOperation\FileOperation\bin\Debug\FileOperation.exe.config
+E:\Dropbox\Dropbox\OOP.Net\Content\Exception\Exception Example\FileOperation\FileOperation\bin\Debug\FileOperation.exe
+E:\Dropbox\Dropbox\OOP.Net\Content\Exception\Exception Example\FileOperation\FileOperation\bin\Debug\FileOperation.pdb
+E:\Dropbox\Dropbox\OOP.Net\Content\Exception\Exception Example\FileOperation\FileOperation\obj\Debug\FileOperation.exe
+E:\Dropbox\Dropbox\OOP.Net\Content\Exception\Exception Example\FileOperation\FileOperation\obj\Debug\FileOperation.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Basis\10Oct To 31Oct 2014\28-Oct-2014\Exception\Exception Example\FileOperation\FileOperation\bin\Debug\FileOperation.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\Basis\10Oct To 31Oct 2014\28-Oct-2014\Exception\Exception Example\FileOperation\FileOperation\obj\Debug\FileOperation.exe
+F:\maloncho backup\Ddrive\C# COURSE\Basis\10Oct To 31Oct 2014\28-Oct-2014\Exception\Exception Example\FileOperation\FileOperation\obj\Debug\FileOperation.pdb

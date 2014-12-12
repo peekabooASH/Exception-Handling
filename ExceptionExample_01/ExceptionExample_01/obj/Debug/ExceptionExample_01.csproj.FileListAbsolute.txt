@@ -1,0 +1,29 @@
+E:\OOP0149-Evening\27-Oct-2014\ExceptionExample_01\ExceptionExample_01\bin\Debug\ExceptionExample_01.exe.config
+E:\OOP0149-Evening\27-Oct-2014\ExceptionExample_01\ExceptionExample_01\bin\Debug\ExceptionExample_01.exe
+E:\OOP0149-Evening\27-Oct-2014\ExceptionExample_01\ExceptionExample_01\bin\Debug\ExceptionExample_01.pdb
+E:\OOP0149-Evening\27-Oct-2014\ExceptionExample_01\ExceptionExample_01\obj\Debug\ExceptionExample_01.Form1.resources
+E:\OOP0149-Evening\27-Oct-2014\ExceptionExample_01\ExceptionExample_01\obj\Debug\ExceptionExample_01.Properties.Resources.resources
+E:\OOP0149-Evening\27-Oct-2014\ExceptionExample_01\ExceptionExample_01\obj\Debug\ExceptionExample_01.csproj.GenerateResource.Cache
+E:\OOP0149-Evening\27-Oct-2014\ExceptionExample_01\ExceptionExample_01\obj\Debug\ExceptionExample_01.exe
+E:\OOP0149-Evening\27-Oct-2014\ExceptionExample_01\ExceptionExample_01\obj\Debug\ExceptionExample_01.pdb
+E:\OOP0149-Evening\28-Oct-2014\ExceptionExample_01\ExceptionExample_01\bin\Debug\ExceptionExample_01.exe.config
+E:\OOP0149-Evening\28-Oct-2014\ExceptionExample_01\ExceptionExample_01\obj\Debug\ExceptionExample_01.exe
+E:\OOP0149-Evening\28-Oct-2014\ExceptionExample_01\ExceptionExample_01\obj\Debug\ExceptionExample_01.pdb
+E:\OOP0149-Evening\28-Oct-2014\ExceptionExample_01\ExceptionExample_01\obj\Debug\ExceptionExample_01.csprojResolveAssemblyReference.cache
+E:\OOP0149-Evening\28-Oct-2014\ExceptionExample_01\ExceptionExample_01\obj\Debug\ExceptionExample_01.Form1.resources
+E:\OOP0149-Evening\28-Oct-2014\ExceptionExample_01\ExceptionExample_01\obj\Debug\ExceptionExample_01.Properties.Resources.resources
+E:\OOP0149-Evening\28-Oct-2014\ExceptionExample_01\ExceptionExample_01\obj\Debug\ExceptionExample_01.csproj.GenerateResource.Cache
+E:\OOP0149-Evening\28-Oct-2014\ExceptionExample_01\ExceptionExample_01\bin\Debug\ExceptionExample_01.exe
+E:\OOP0149-Evening\28-Oct-2014\ExceptionExample_01\ExceptionExample_01\bin\Debug\ExceptionExample_01.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Basis\10Oct To 31Oct 2014\28-Oct-2014\ExceptionExample_01\ExceptionExample_01\bin\Debug\ExceptionExample_01.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\Basis\10Oct To 31Oct 2014\28-Oct-2014\ExceptionExample_01\ExceptionExample_01\obj\Debug\ExceptionExample_01.exe
+F:\maloncho backup\Ddrive\C# COURSE\Basis\10Oct To 31Oct 2014\28-Oct-2014\ExceptionExample_01\ExceptionExample_01\obj\Debug\ExceptionExample_01.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Basis\10Oct To 31Oct 2014\28-Oct-2014\ExceptionExample_01\ExceptionExample_01\bin\Debug\ExceptionExample_01.exe
+F:\maloncho backup\Ddrive\C# COURSE\Basis\10Oct To 31Oct 2014\28-Oct-2014\ExceptionExample_01\ExceptionExample_01\bin\Debug\ExceptionExample_01.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Basis\10Oct To 31Oct 2014\28-Oct-2014\ExceptionExample_01\ExceptionExample_01\obj\Debug\ExceptionExample_01.csprojResolveAssemblyReference.cache
+F:\maloncho backup\Ddrive\C# COURSE\Basis\10Oct To 31Oct 2014\28-Oct-2014\ExceptionExample_01\ExceptionExample_01\obj\Debug\ExceptionExample_01.Form1.resources
+F:\maloncho backup\Ddrive\C# COURSE\Basis\10Oct To 31Oct 2014\28-Oct-2014\ExceptionExample_01\ExceptionExample_01\obj\Debug\ExceptionExample_01.Properties.Resources.resources
+F:\maloncho backup\Ddrive\C# COURSE\Basis\10Oct To 31Oct 2014\28-Oct-2014\ExceptionExample_01\ExceptionExample_01\obj\Debug\ExceptionExample_01.csproj.GenerateResource.Cache
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\Exception Handling\ExceptionExample_01\ExceptionExample_01\bin\Debug\ExceptionExample_01.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\Exception Handling\ExceptionExample_01\ExceptionExample_01\obj\Debug\ExceptionExample_01.exe
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\Exception Handling\ExceptionExample_01\ExceptionExample_01\obj\Debug\ExceptionExample_01.pdb
